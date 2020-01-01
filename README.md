@@ -11,4 +11,6 @@ Made all the code and "design" myself.
 1. Open the solution and run the program.
 2. Input a number you want on the board.
 3. See your opponent make a move.
-4. Repeat till a winner is found (Set max 9 piece or the game will be a draw).
+4. Repeat till a winner is found.
+
+OBS: If there is no winner before 9 pieces the game will be a draw.
